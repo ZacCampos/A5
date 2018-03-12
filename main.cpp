@@ -20,6 +20,7 @@ int main ()
 
 	cout << setw(29) << "What is your pay increase?";
 	cin  >> payIncrease;
+	cout << endl;
 	cout << right;
 
 	//Calculation Section
@@ -33,9 +34,8 @@ int main ()
 	cout << right;
 	cout << name << "'s SALARY INFORMATION" << endl;
 	cout << "New Salary" << setw(19) << "Monthly Salary" << setw(19) << "Retroactive Pay" << endl;
+	cout << fixed << setprecision(2);
 	cout << setw(10) <<newSalary << setw(19) << monthlySalary << setw(19) << retroactivePay;
 
 	return 0;
 }
-
-
