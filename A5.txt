@@ -1,0 +1,23 @@
+***************************************************
+*  PROGRAMMED BY : Zac Campos
+*  CLASS         : CS1A
+*  SECTION       : MW: 8am
+*  LAB #5        : Eclipse Tutorial
+***************************************************
+
+What is your name?           Jean Cyr
+What is your current salary? 80000
+What is your pay increase?   .05
+
+Jean Cyr's SALARY INFORMATION
+New Salary     Monthly Salary    Retroactive Pay
+  84000.00            7000.00            2000.00
+  
+  
+What is your name?           Abe Lincoln
+What is your current salary? 5000
+What is your pay increase?   .07
+
+Abe Lincoln's SALARY INFORMATION
+New Salary     Monthly Salary    Retroactive Pay
+   5350.00             445.83             175.00
